@@ -1,39 +1,59 @@
-[09:48:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:48:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:48:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:48:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:48:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:48:58] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[09:48:58] [Server thread/INFO]: Loading properties
-[09:48:58] [Server thread/INFO]: Default game type: SURVIVAL
-[09:48:58] [Server thread/INFO]: Generating keypair
-[09:48:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:48:58] [Server thread/INFO]: Using epoll channel type
-[09:48:59] [Server thread/INFO]: Preparing level "hellit"
-[09:48:59] [Server thread/INFO]: Reloading ResourceManager: Default
-[09:49:27] [Server thread/INFO]: Loaded 6 recipes
-[09:49:47] [Server thread/INFO]: Loaded 825 advancements
-[09:49:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:49:52] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:52] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:52] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:52] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:52] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:52] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:53] [Server thread/INFO]: Preparing spawn area: 0%
-[09:49:53] [Server thread/INFO]: Preparing spawn area: 64%
-[09:49:54] [Server thread/INFO]: Time elapsed: 3941 ms
-[09:49:54] [Server thread/INFO]: Done (54.876s)! For help, type "help"
-[09:50:01] [Server thread/INFO]: Stopping the server
-[09:50:01] [Server thread/INFO]: Stopping server
-[09:50:01] [Server thread/INFO]: Saving players
-[09:50:01] [Server thread/INFO]: Saving worlds
-[09:50:01] [Server thread/INFO]: Saving chunks for level 'hellit'/minecraft:the_end
-[09:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:50:01] [Server thread/INFO]: Saving chunks for level 'hellit'/minecraft:overworld
-[09:50:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (hellit): All chunks are saved
-[09:50:03] [Server thread/INFO]: Saving chunks for level 'hellit'/minecraft:the_nether
-[09:50:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:50:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:50:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (hellit): All chunks are saved
-[09:50:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:14:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:14:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:14:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:14:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:14:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:14:25] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[20:14:25] [Server thread/INFO]: Loading properties
+[20:14:25] [Server thread/INFO]: Default game type: SURVIVAL
+[20:14:25] [Server thread/INFO]: Generating keypair
+[20:14:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:14:27] [Server thread/INFO]: Using epoll channel type
+[20:14:27] [Server thread/INFO]: Preparing level "hellit"
+[20:14:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:15:22] [Server thread/INFO]: Loaded 6 recipes
+[20:15:22] [Server thread/INFO]: Loaded 825 advancements
+[20:15:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:27] [Server thread/INFO]: Preparing spawn area: 7%
+[20:15:28] [Server thread/INFO]: Preparing spawn area: 45%
+[20:15:28] [Server thread/INFO]: Time elapsed: 5230 ms
+[20:15:28] [Server thread/INFO]: Done (60.886s)! For help, type "help"
+[20:18:33] [User Authenticator #1/INFO]: UUID of player Suwushi is 52fe62de-a0f0-422e-ab85-7bb3f34791eb
+[20:18:35] [Server thread/INFO]: Suwushi[/78.113.70.173:49932] logged in with entity id 53 at (12819.614149779882, 65.0, 7626.58615244089)
+[20:18:35] [Server thread/INFO]: Suwushi joined the game
+[20:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[20:18:40] [User Authenticator #2/INFO]: UUID of player Temira is 45099ac3-9063-4a15-8908-9bf240d5b0e1
+[20:18:41] [Server thread/INFO]: Temira[/176.185.114.17:55979] logged in with entity id 208 at (12772.44877421085, 64.0, 7654.906772671405)
+[20:18:41] [Server thread/INFO]: Temira joined the game
+[20:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13733ms or 274 ticks behind
+[20:20:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4100ms or 82 ticks behind
+[20:42:00] [Server thread/INFO]: Suwushi was blown up by Creeper
+[20:42:48] [Server thread/INFO]: Suwushi tried to swim in lava to escape Skeleton
+[20:50:07] [Server thread/INFO]: Suwushi lost connection: Disconnected
+[20:50:07] [Server thread/INFO]: Suwushi left the game
+[21:04:31] [User Authenticator #3/INFO]: UUID of player Suwushi is 52fe62de-a0f0-422e-ab85-7bb3f34791eb
+[21:04:31] [Server thread/INFO]: Suwushi[/78.113.70.173:50111] logged in with entity id 7324 at (12698.660528656366, 21.0, 7600.874621279717)
+[21:04:31] [Server thread/INFO]: Suwushi joined the game
+[21:26:22] [Server thread/INFO]: Temira lost connection: Je m'appelle pas Bernard
+[21:26:22] [Server thread/INFO]: Temira left the game
+[21:26:23] [Server thread/INFO]: [Suwushi: Kicked Temira: Je m'appelle pas Bernard]
+[21:26:23] [Server thread/WARN]: handleDisconnection() called twice
+[21:26:28] [User Authenticator #4/INFO]: UUID of player Temira is 45099ac3-9063-4a15-8908-9bf240d5b0e1
+[21:26:29] [Server thread/INFO]: Temira[/176.185.114.17:56074] logged in with entity id 11352 at (12724.960979447773, 11.0, 7607.365065333124)
+[21:26:29] [Server thread/INFO]: Temira joined the game
+[22:02:21] [Server thread/INFO]: Suwushi has made the advancement [Voluntary Exile]
+[22:05:20] [Server thread/INFO]: [Suwushi: Set own game mode to Creative Mode]
+[22:05:40] [Server thread/INFO]: [Suwushi: Set own game mode to Survival Mode]
+[22:11:01] [Server thread/INFO]: [Suwushi: Set own game mode to Creative Mode]
+[22:14:30] [Server thread/INFO]: Temira lost connection: Disconnected
+[22:14:30] [Server thread/INFO]: Temira left the game
+[22:14:31] [Server thread/INFO]: Suwushi lost connection: Disconnected
+[22:14:31] [Server thread/INFO]: Suwushi left the game
